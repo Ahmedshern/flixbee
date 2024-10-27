@@ -1,1 +1,0 @@
-// This file should be deleted as middleware is not supported with static exports
